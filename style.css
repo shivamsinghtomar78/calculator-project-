@@ -1,7 +1,7 @@
  body{
     display: flex;
     justify-content: center;
-    background-image: url(img/3.jpg);
+    background-image: url(img/body\ background.jpg);
     background-repeat: no-repeat;
     align-items: center;
     margin-left: 20px;
@@ -26,7 +26,7 @@
     width: 85%;
     font-size: 25px;
     border-radius: 10px;
-    background-image: url(img/4.jpg);
+    background-image: url(img/display.jpg);
   }
   
   .button-container {
@@ -40,4 +40,72 @@
     height: 65px;
     margin: 5px;
   }
+  #button-c{
+     font-size: 50px;
+  }
+  #button-1{
+    font-size: 50px;
+  }
+  #button-2{
+    font-size: 50px;
+  }
+  
+  #button-plus{
+    font-size: 50px;
+  }
+  
+  #button-3{
+    font-size: 50px;
+  }
+  
+  #button-4{
+    font-size: 50px;
+  }
+  
+  #button-5{
+    font-size: 50px;
+  }
+  
+  #button-6{
+    font-size: 50px;
+  }
+  
+  
+  #button-7{
+    font-size: 50px;
+  }
+  
+  #button-8{
+    font-size: 50px;
+  }
+  
+  #button-9{
+    font-size: 50px;
+  }
+
+  
+  #button-divide{
+    font-size: 50px;
+  }
+  
+  #button-dot{
+    font-size: 50px;
+  }
+
+  #button-zero{
+    font-size: 50px;
+  }
+  
+  #button-minus{
+    font-size: 50px;
+  }
+  
+  #button-multi{
+    font-size: 50px;
+  }
+  
+  #button-equalto{
+    font-size: 50px;
+  }
+  
   
